@@ -1,0 +1,22 @@
+Inicio
+1 - Acordar
+2 - O despertador está tocando?
+	2.1 - Sim
+		2.1.1 - Desligar o despertador
+	2.2 - Não
+3 - Levantar da cama
+4 - Arrumar a cama
+5 - Ir até o banheiro
+6 - Tem pasta de dente?
+	6.1 - Sim
+		6.1.1 - Escovar os dentes
+	6.2 - Não
+		6.2.1 - Tem pasta de dentes na dispensa?
+			6.2.1.1 - Sim
+				6.2.1.1.1 - Ir buscar a pasta de dente e retornar para o banheiro e escovar os dentes
+			6.2.1.2 - Não
+				6.2.1.2.1 - Criar lembrete para comprar mais pasta de dente.
+7 - Retornar para o quarto
+8 - Verificar a agenda do dia
+	
+ 
